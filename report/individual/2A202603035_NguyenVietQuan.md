@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Nguyễn Việt Quân
 - MSSV: 2A202603035
 - Email: 26ai.quannv3@vinuni.edu.vn
-- Link repository: 
+- Link repository: https://github.com/JakeNguyen99/K5-L2-DAY04-NguyenVietQuan-2A202603035-KeypointPose
 - Phiên bản CVAT (Help → About): 2.74.1
 - Máy: hệ điều hành Window 10 · RAM 16gb GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có / không
@@ -89,7 +89,6 @@ Tự kiểm tay trong file JSON:
 
 | File | Người / mặt kiểm (ảnh, thứ tự) | Số phần tử `keypoints` | Điểm `outside` ra `v = 0`, `occluded` ra `v = 1`? | `num_keypoints` khớp? |
 |---|---|---:|---|---|
-| `HoVaTen_persons.zip` | | | | |
 | `HoVaTen_persons.zip` | 12 ảnh| 256 | `v = 0`: 75, `v = 1`: 36 | |
 | `HoVaTen_faces.zip` | 8 ảnh| 96 | `v = 0`: 8, `v = 1`: 3 | |
 
