@@ -141,7 +141,7 @@ Nguồn ảnh: COCO val2017 / Wikimedia Commons.
 ## 7. Tự đánh giá
 
 1. Lỗi bạn mắc nhiều nhất hôm nay, và cách bạn sẽ tránh ở dự án thật:
-
+Lỗi mắc nhiều nhất là vis_flag (3 lần), cụ thể là đặt sai cờ cho các điểm bị khuất như đầu gối và vai, và lỗi extra (2 lần) do gán skeleton cho người thấp hơn 60 px. Em sẽ rút kinh nghiệm để không lặp lại ở dự án thật
    ...
 
 2. Một quy tắc bạn đề xuất thêm vào guideline (kèm ảnh ví dụ nếu có):
